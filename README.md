@@ -53,10 +53,12 @@
   </ul>
 
   <h3>Interface Screenshots</h3>
+
   ![image alt](https://github.com/hyunjun7pp26-hash/Allen-Jeong---AI-engineeri/blob/4a03740d685bdbbd34ef8f03b2703abe4781dd41/009e55b4e7c23a9e314fae8152dd4e1c.jpg)
   ![image alt](https://github.com/hyunjun7pp26-hash/Allen-Jeong---AI-engineeri/blob/4a03740d685bdbbd34ef8f03b2703abe4781dd41/5579f99ff0ee5fb7d5f07f87da20b746.jpg)
   
   <h3>Wireframes / Design Steps</h3>
+  
   ![image alt](https://github.com/hyunjun7pp26-hash/Allen-Jeong---AI-engineeri/blob/4a03740d685bdbbd34ef8f03b2703abe4781dd41/be21e608649828b7f46cd64f277cbe9b.jpg) 
   ![image alt](https://github.com/hyunjun7pp26-hash/Allen-Jeong---AI-engineeri/blob/4a03740d685bdbbd34ef8f03b2703abe4781dd41/cbb8e780abecff9ebbd274f59008e7bc.jpg)
 
