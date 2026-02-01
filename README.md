@@ -42,6 +42,7 @@
     <li>Created multiple interface prototypes emphasizing accessibility and readability</li>
     <li>Developed a brand identity aligned with user-friendly principles</li>
     <li>Ensured designs were code-ready for responsive development</li>
+    <li>Appiled the resources of AI</li>
   </ul>
 
   <h3>Technical Takeaways</h3>
@@ -52,13 +53,12 @@
   </ul>
 
   <h3>Interface Screenshots</h3>
-  ![image alt]()
-  <img src="projects/bonsai/screenshots/bonsai_mockup2.png" alt="bons.ai Mockup 2" width="600">
-
+  ![image alt](https://github.com/hyunjun7pp26-hash/Allen-Jeong---AI-engineeri/blob/4a03740d685bdbbd34ef8f03b2703abe4781dd41/009e55b4e7c23a9e314fae8152dd4e1c.jpg)
+  ![image alt](https://github.com/hyunjun7pp26-hash/Allen-Jeong---AI-engineeri/blob/4a03740d685bdbbd34ef8f03b2703abe4781dd41/5579f99ff0ee5fb7d5f07f87da20b746.jpg)
+  
   <h3>Wireframes / Design Steps</h3>
-  <img src="projects/bonsai/design/wireframe1.png" alt="bons.ai Wireframe 1" width="600">
-  <img src="projects/bonsai/design/wireframe2.png" alt="bons.ai Wireframe 2" width="600">
-</section>
+  ![image alt](https://github.com/hyunjun7pp26-hash/Allen-Jeong---AI-engineeri/blob/4a03740d685bdbbd34ef8f03b2703abe4781dd41/be21e608649828b7f46cd64f277cbe9b.jpg) 
+  ![image alt](https://github.com/hyunjun7pp26-hash/Allen-Jeong---AI-engineeri/blob/4a03740d685bdbbd34ef8f03b2703abe4781dd41/cbb8e780abecff9ebbd274f59008e7bc.jpg)
 
 <!-- Career Connection -->
 <section>
@@ -72,7 +72,7 @@
   </section>
 
 <footer>
-  <p>© 2026 婉容 | GitHub Portfolio</p>
+  <p>© 2026 Allen Jeong | GitHub Portfolio</p>
   <p>Email: <a href="mailto:3635105404@qq.com">3635105404@qq.com</a> | Phone: +86 181 2710 425</p>
 </footer>
 
